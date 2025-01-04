@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:white;
+}
+#sub{
+    size: 4rem;
+    color:black;
+    border-radius: 10px;
+    border: 10px;
+    border-color: black;
+    background-color: yellow;
+}
+button{
+color:black;
+border-style:solid;
+border:10px;
+border-radius:10px;
+background-color:limegreen;
+font-size:2rem;
+font-family:sans-serif;
+}
